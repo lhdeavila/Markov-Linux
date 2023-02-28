@@ -1,6 +1,7 @@
 #
 # ~/.bashrc
 # Author: eleAche
+# /home/${USER}/.bashrc
 
 function banner(){
 cat << BANNER
